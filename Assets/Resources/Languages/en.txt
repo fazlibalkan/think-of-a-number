@@ -1,0 +1,7 @@
+MainMenu=Think of a number between 1 and 100.
+QUESTION=Can you see the number that you think of?
+OKAY=Okay.
+QUIT=Quit the game.
+YES=Yes
+NO=No
+PLAYAGAIN=Play Again

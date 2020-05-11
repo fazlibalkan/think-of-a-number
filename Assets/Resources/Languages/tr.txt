@@ -1,0 +1,7 @@
+﻿MainMenu=Aklından 1 ile 100 arasında bir sayı tut.
+QUESTION=Tuttuğun sayı aşağıdaki sayıların içinde var mı?
+OKAY=Tuttum.
+QUIT=Çıkış yap.
+YES=Evet
+NO=Hayır
+PLAYAGAIN=Tekrar Oyna
